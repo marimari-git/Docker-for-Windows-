@@ -1,7 +1,8 @@
-# 【備忘録】Docker for Windows
+# 【備忘録】Docker Desktop for Windows
 
-Vmware で。CentOS入れてから、あれこれインストールするけど、設定が・・・
-Docker for Windows で、コンテナ使えばいいんじゃない？ってことで
+Windowsにサクッと開発環境を構築したい
+でも、Vmware入れて、CentOS入れて、あれこれインストールするけど、設定が・・・
+Docker で、コンテナ使えばいいんじゃない？ってことで
 
 ## 対象
 
