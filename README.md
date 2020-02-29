@@ -22,6 +22,7 @@ Docker for Windows を導入するところまで
 
 ##手順
 １．BIOSの設定で、VTｰxを有効にする
-２．「Windowsの機能」で、Hyper-vのチェックボックスにチェックを入れて有効にする
+２．「Windowsの機能」で、Hyper-vを探してチェックを入れて有効にする
 ３．「Docker for Windows」をダウンロードしてインストールする
 ４．「Docker for Windows」を起動して、動作確認
+
